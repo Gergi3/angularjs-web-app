@@ -1,28 +1,21 @@
-# Angular 15 Softuni Final Project
-## IN DEVELOPMENT
 <p>
-The web application is about an open media for posting articles. <br />
-You can login, register, logout. <br />
-There are pages with catalog for articles, article details page, create article, my-articles, delete articlee and edit article.<br />
-You can comment on articles delete/edit them <br />
+Open media platform built with ASP.NET MVC and C#. Features user authentication, full CRUD for articles, and a commenting system with edit/delete support.
+</p>
 
 # To start app
-OPEN TERMINAL <br />
-    cd server <br />
-    npm i <br />
-    npm start <br />
+Open a terminal and type:
+- cd server <br />
+- npm i <br />
+- npm start <br />
 
-OPEN ANOTHER TERMINAL WITHOUT CLOSING THE OTHER ONE <br />
-    cd client <br />
-    npm i <br />
-    ng serve <br />
+Open a second terminal and type:
+- cd client
+- npm i
+- ng serve
 
 # Requirments
-* npm
-* node
-* mongodb
-* angular cli
-* typescript
-
-# Credits
-To: [Ilia Idakiev](https://github.com/IliaIdakiev) for the awesome lectures.
+- npm
+- node
+- mongodb
+- angular cli
+- typescript
