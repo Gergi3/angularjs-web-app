@@ -1,5 +1,5 @@
 <p>
-Open media platform built with ASP.NET MVC and C#. Features user authentication, full CRUD for articles, and a commenting system with edit/delete support.
+Open media platform built with AngularJS and TypeScript. Features user authentication, full CRUD for articles, and a commenting system with edit/delete support.
 </p>
 
 # To start app
